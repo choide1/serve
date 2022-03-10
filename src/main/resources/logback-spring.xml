@@ -2,7 +2,7 @@
 <configuration>
 
     <!--로그 파일 저장 위치-->
-    <property name="LOGS_PATH" value="./logs"/>
+    <property name="LOGS_PATH" value="./logss"/>
 
     <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
         <layout class="ch.qos.logback.classic.PatternLayout">
